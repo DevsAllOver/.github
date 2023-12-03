@@ -47,5 +47,9 @@ Here are some of our ongoing projects that you can contribute to:
 <div align="center">
     
 <h2 align="center"> 🔗 Connect with Us </h2>
- 
+
+Email: [your.email@example.com](mailto:your.email@example.com)
+Twitter: [@DevsAllOver](https://twitter.com/DevsAllOver)
+GitHub: [DevsAllOver](https://github.com/DevsAllOver)
+
 </div>
